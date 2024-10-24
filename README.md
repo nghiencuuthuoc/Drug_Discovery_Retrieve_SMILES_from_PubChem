@@ -5,7 +5,7 @@ This software is designed to gather information on the SMILES structures of comp
 You need to prepare the text file in the following format:
 
 ***********
-An example of a file.txt
+An example of a drug_name.txt
 ***********
 Leqselvi
 
