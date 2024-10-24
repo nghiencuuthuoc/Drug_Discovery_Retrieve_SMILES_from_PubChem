@@ -13,3 +13,15 @@ Ohtuvayre
 
 Xolremdi
 
+***********
+Run app.py
+```
+streamlit run app.py
+```
+
+Or
+```
+streamlit run Retrieve_SMILES_PubChem.py
+```
+***********
+
